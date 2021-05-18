@@ -1,0 +1,29 @@
+{
+ "envs": [
+ 
+ {
+   "url":"https://rahulshettyacademy.com/#/index",
+   "userName":"Test1",
+   "password":"111111",
+   "tag":"sit"
+ 
+ },
+ 
+ {
+   "url":"https://rahulshettyacademy.com/#/index",
+   "userName":"Test2",
+   "password":"222222",
+   "tag":"uat"
+ 
+ },
+ 
+ {
+   "url":"https://rahulshettyacademy.com/#/index",
+   "userName":"Test3",
+   "password":"333333",
+   "tag":"smoke"
+ }
+
+]
+
+}

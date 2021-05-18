@@ -1,0 +1,25 @@
+{
+ "query": [
+ 
+ {
+   "register":"select * from registerEmp  where name = 'Mohit'",
+   "empName":"select empName from registerEmp",
+   "avgSalary":"select avg(salary) from registerEmp",
+   "tag":"select"
+ },
+ 
+  {
+   "nameUpdate":"update into registerEmp values where name = 'Mayank'",
+   "salaryUpdate":"update into registerEmp values where name = 'Mayank'",
+   "tag":"update"
+ },
+ 
+ {
+   "insertEmp":"insert into registerEmp values ('Piyush','CS',30)",
+   "tag":"insert"
+ }
+ 
+ 
+]
+
+}

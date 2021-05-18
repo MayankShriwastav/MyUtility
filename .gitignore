@@ -1,0 +1,23 @@
+
+
+# ignore all files starting with . or ~
+.*
+~*
+
+
+# ignore test output directory
+/target
+
+
+# ignore compiled files
+*.class
+
+
+
+
+# --------------------------------------------------------
+# BEGIN Explictly Allowed Files (i.e. do NOT ignore these)
+# --------------------------------------------------------
+
+# track these files, if they exist
+!.gitignore
